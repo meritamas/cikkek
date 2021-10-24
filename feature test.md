@@ -1,13 +1,26 @@
 ## Ez a dokumentum arra szolgál, hogy próbálgassam, hogy mit tud a felület, mit hogy lehet megoldani. Értelmezhető szöveg is lesz benne időről időre, de nem az szerepe, hogy bárki olvassa. Kérem, senki ne reagáljon rá. 
 
 <details>
-  <summary>Spoiler warning</summary>
+  <summary>Fő gondolat</summary>
   
-  Spoiler text. Note that it's important to have a space after the summary tag. You should be able to write any markdown you want inside the `<details>` tag... just make sure you close `<details>` afterward.
+  Kifejtés. Note that it's important to have a space after the summary tag. You should be able to write any markdown you want inside the `<details>` tag... just make sure you close `<details>` afterward. 
   
-  ```javascript
-  console.log("I'm a code block!");
-  ```
+  
+  <details>
+  <summary>Még egy fő gondolat ezen belül</summary>
+  
+  Kifejtés. Note that it's important to have a space after the summary tag. You should be able to write any markdown you want inside the `<details>` tag... just make sure you close `<details>` afterward. 
+  
+    
+    <details>
+  <summary>HArmadik fő gondolat</summary>
+  
+  Kifejtés. Note that it's important to have a space after the summary tag. You should be able to write any markdown you want inside the `<details>` tag... just make sure you close `<details>` afterward. 
+  
+  
+</details>
+  
+</details>
   
 </details>
 
