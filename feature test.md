@@ -1,11 +1,15 @@
 ## Ez a dokumentum arra szolgál, hogy próbálgassam, hogy mit tud a felület, mit hogy lehet megoldani. Értelmezhető szöveg is lesz benne időről időre, de nem az szerepe, hogy bárki olvassa. Kérem, senki ne reagáljon rá. 
 
 
+[Hover text example 1](## "two spaces need to be added to end of line for new line"):  
 
 [id1]: ## "your hover text"
 
 This is a [hover text][id1] example.
 
+
+Hover text example 2:  
+This is a [hover text](## "your hover text") example.
 
 
 <details>
