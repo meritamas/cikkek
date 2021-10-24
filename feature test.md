@@ -1,4 +1,4 @@
-## Ez a dokumentum arra szolgál, hogy próbálgassam, hogy mit tud a felület. Nem több és nem is kevesebb. Értelmezhető szöveg is lesz benne időről időre, de nem az szerepe, hogy bárki olvassa. Kérem, senki ne reagáljon rá. 
+## Ez a dokumentum arra szolgál, hogy próbálgassam, hogy mit tud a felület, mit hogy lehet megoldani. Értelmezhető szöveg is lesz benne időről időre, de nem az szerepe, hogy bárki olvassa. Kérem, senki ne reagáljon rá. 
 
 ### Érdekes gondolatok
 
@@ -15,3 +15,12 @@ Türelmet kérek, mert hosszabb ideig is eltarthat válaszolnom. *Ne gondolkozzu
 # The largest heading
 ## The second largest heading
 ###### The smallest heading
+
+
+### Miért a github?
+Mert egyszerre teljesíti a következő feltételeket:<ul>
+<li>nyilvánosan elérhető cikkek készíthetők</li>
+<li>az írások formázhatók</li>
+<li>(legjobb tudomásom szerint) nincs cenzúra</li> 
+<li>a változtatások nyomon követhetők</li>
+</ul>
