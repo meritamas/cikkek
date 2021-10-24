@@ -25,3 +25,5 @@ Mert egyszerre teljesíti a következő feltételeket:<ul>
 <li>a dátumok bizonyító erejűek</li>
 <li>(legjobb tudomásom szerint) nincs cenzúra</li>
 </ul>
+
+**Az írásaim némelyikét (egészben vagy részben) ettől függetlenül más felületen is közzéteszem majd.**
