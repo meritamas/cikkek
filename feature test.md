@@ -47,10 +47,10 @@ Türelmet kérek, mert hosszabb ideig is eltarthat válaszolnom. *Ne gondolkozzu
 ### Miért a github?
 Mert egyszerre teljesíti a következő feltételeket:<ul>
 <li>nyilvánosan elérhető cikkek készíthetők</li>
+<li>(legjobb tudomásom szerint) nincs cenzúra</li>
 <li>az írások formázhatók</li>
 <li>nyomon követhető, mikor mit írtam (melyik szövegrész mikor került be/volt törölve)</li>
 <li>a dátumok bizonyító erejűek</li>
-<li>(legjobb tudomásom szerint) nincs cenzúra</li>
 </ul>
 
 **Az írásaim némelyikét (egészben vagy részben) ettől függetlenül más felületen is közzéteszem majd.**
