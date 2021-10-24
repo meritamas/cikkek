@@ -1,5 +1,16 @@
 ## Ez a dokumentum arra szolgál, hogy próbálgassam, hogy mit tud a felület, mit hogy lehet megoldani. Értelmezhető szöveg is lesz benne időről időre, de nem az szerepe, hogy bárki olvassa. Kérem, senki ne reagáljon rá. 
 
+<details>
+  <summary>Spoiler warning</summary>
+  
+  Spoiler text. Note that it's important to have a space after the summary tag. You should be able to write any markdown you want inside the `<details>` tag... just make sure you close `<details>` afterward.
+  
+  ```javascript
+  console.log("I'm a code block!");
+  ```
+  
+</details>
+
 ### Érdekes gondolatok
 
 Akár úgy fejezem ki, ahogy hallottam, akár a saját szavaimmal idézek egy gondolatot vagy gondolatmenetet, azért teszem, mert hasznosnak tartom, egyetértek vele. A forrást azért jelölöm meg, mert úgy gondolom, hogy az illetőtől több hasznos gondolat is meríthető.
