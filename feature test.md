@@ -1,7 +1,12 @@
 ## Ez a dokumentum arra szolgál, hogy próbálgassam, hogy mit tud a felület, mit hogy lehet megoldani. Értelmezhető szöveg is lesz benne időről időre, de nem az szerepe, hogy bárki olvassa. Kérem, senki ne reagáljon rá. 
 
 
-[Display text](a "Hover text")
+
+[id1]: ## "your hover text"
+
+This is a [hover text][id1] example.
+
+
 
 <details>
   <summary>Fő gondolat</summary>
